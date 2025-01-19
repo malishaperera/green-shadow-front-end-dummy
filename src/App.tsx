@@ -37,12 +37,7 @@ function App() {
   return (
       <>
         <RouterProvider router={routes}></RouterProvider>
-        {/*<TaskApp></TaskApp>*/}
-        {/*<TaskAppReducer></TaskAppReducer>*/}
-        {/*<CountNumberWithReducer></CountNumberWithReducer>*/}
-        {/*<NormalCount></NormalCount>*/}
-        {/*<ResponsiveForm></ResponsiveForm>*/}
-        {/*<DataLoadToInput></DataLoadToInput>*/}
+
       </>
   )
 }
